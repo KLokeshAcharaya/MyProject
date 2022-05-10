@@ -1,0 +1,16 @@
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\CalculatorTest.dll
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\CalculatorTest.pdb
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\CalculatorLibrary.dll
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\CalculatorLibrary.pdb
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Lokesh\Official\Projects\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Lokesh\Official\Projects\CalculatorTest\obj\Debug\CalculatorTest.csproj.AssemblyReference.cache
+D:\Lokesh\Official\Projects\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+D:\Lokesh\Official\Projects\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+D:\Lokesh\Official\Projects\CalculatorTest\obj\Debug\CalculatorTest.dll
+D:\Lokesh\Official\Projects\CalculatorTest\obj\Debug\CalculatorTest.pdb
